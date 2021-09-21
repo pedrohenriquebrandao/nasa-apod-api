@@ -5,7 +5,7 @@ export default function NavBar() {
     return (
         <div className="navbar">
             <img src="NASA_logo.svg"/>
-            <h1>NASA Picture of The Day</h1>
+            <h1>NASA Astronomy Picture of The Day</h1>
         </div>
     )
 }

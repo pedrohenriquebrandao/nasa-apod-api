@@ -11,8 +11,7 @@ function App() {
       <header className="App-header">
         <BrowserRouter>
           <div>
-            <Route component={Home} path="/" exact />
-            <Route component={Photo} path="/photo" />
+            <Route component={Photo} path="/" exact />
           </div>
         </BrowserRouter>
       </header>
